@@ -61,7 +61,7 @@ aerodrome_id	integer REFERENCES tbl_Aerodromes(aerodrome_id),
 width	Decimal,
 length	Decimal,
 surface_id	integer REFERENCES tbl_Runway_Surfaces(surface_id),
-geom	Line
+geom	Line /*con multiline rompe*/
 );
 
 create table tbl_Runway_Types_Letter_ICAOAnnex14(
