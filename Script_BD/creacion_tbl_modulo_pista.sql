@@ -49,7 +49,6 @@ elevation	Numeric,
 geom	Point
 );
 
-
 create table tbl_Runway_Surfaces(
 surface_id	integer PRIMARY KEY,
 name	Varchar(1000),
