@@ -3,44 +3,45 @@
 
 create table tbl_OLS_Rules_ICAOAnnex14 (
 rule_id integer,
-surface_name varchar(100),
-runway_clasification varchar(100),
-runway_category varchar(100),
-runway_code_number varchar(100),
-property varchar(100),
-value varchar(100)
+surface_name varchar(1000),
+runway_clasification varchar(1000),
+runway_category varchar(1000),
+runway_code_number varchar(1000),
+property varchar(1000),
+value varchar(1000)
 );
  
 /*modulo runway */
  
 create table tbl_States ( 
 state_id integer PRIMARY KEY,
-name varchar(100),
+name varchar(1000),
 code char(3)
 );
  
 create table tbl_Regions (
 region_id integer PRIMARY KEY,
-name varchar(100),
+name varchar(1000),
 code char(3), 
 code_fir char(4),
-name_fir varchar(100),
+name_fir varchar(1000),
 state_id integer REFERENCES tbl_States(state_id),
 geom polygon
 );
 
 create table tbl_Regulations (
 regulation_id	integer PRIMARY KEY,
-authority	Varchar(100),
-name	Varchar(100),
-description	Varchar(100)
+authority	Varchar(1000),
+name	Varchar(1000),
+description	Varchar(1000)
 );
- 
+  
 create table tbl_Aerodromes (
 aerodrome_id integer PRIMARY KEY,
 region_id	integer REFERENCES tbl_Regions(region_id),
-regulation_id	integer REFERENCES tbl_Regulations(regulation_id),
-indicator	Char[4],
+regulation	integer,
+name_fir	Varchar(1000),
+code_fir char[4],
 code_IATA	Char[3],
 latitude	Numeric,
 longitude	Numeric,
@@ -51,7 +52,7 @@ geom	Point
 
 create table tbl_Runway_Surfaces(
 surface_id	integer PRIMARY KEY,
-name	Varchar(100),
+name	Varchar(1000),
 code	Char[3]
 );
 
@@ -79,16 +80,12 @@ length_max	integer,
 length_min	integer
 );
 
-
-
 create table tbl_Runway_Distances_Types(
 type_id	integer PRIMARY KEY,
-name	Varchar(100),
+name	Varchar(1000),
 code	Char[4],
-description	Varchar(100)
+description	Varchar(1000)
 );
-
-
 
 
 create table tbl_Runway_Directions(
@@ -99,16 +96,12 @@ elevation	Numeric,
 geom	Point
 );
 
-
-
 create table tbl_Runway_Types_Impl_ICAOAnnex14(
 relation_id  integer PRIMARY KEY,
 direction_id integer references tbl_Runway_Directions(direction_id),
 code_number  integer references tbl_Runway_Types_Number_ICAOAnnex14(code_id),
 code_letter integer references tbl_Runway_Types_Letter_ICAOAnnex14(code_id)
 );
-
-
 
 create table tbl_Runway_Distances(
 distance_id     integer PRIMARY KEY,
@@ -118,11 +111,10 @@ length  Numeric,
 geom    Polygon
 );
 
-
 create table tbl_Runway_Classification_ICAOAnnex14(
 classification_id	integer PRIMARY KEY,
-name	Varchar(100),
-category varchar(100)	
+name	Varchar(1000),
+category varchar(1000)	
 );
 
 create table tbl_Runway_Classifications_Impl_ICAOAnnex14(
@@ -138,7 +130,6 @@ enabled	Boolean,
 threshold_length	Numeric,
 threshold_elevation	Numeric
 );
-
 
 create table tbl_Runway_Takeoff_Sections(
 section_id	integer PRIMARY KEY,
