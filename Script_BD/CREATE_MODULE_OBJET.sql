@@ -16,3 +16,15 @@ type_individual_id	Integer,
 type_building_id	Integer,
 type_overhead_wire_id	Integer
 );
+
+
+
+create table Placed_Object_Owner(
+owner_id	Integer,
+object_id	Integer,
+name	Varchar(1000),
+address	Varchar(1000),
+email	Varchar(1000),
+phone1	Varchar(1000),
+phone2	Varchar(1000)
+);
