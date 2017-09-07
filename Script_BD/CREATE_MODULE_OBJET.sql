@@ -1,3 +1,19 @@
+create table Placed_Object_Individual_Spec(
+spec_id	Integer,
+geom	Point
+);
+
+create table Placed_Object_Building_Spec(
+spec_id	Integer,
+geom	MultiPolygon
+);
+
+create table Placed_Object_Overhead_Wire_Spec(
+spec_id	Integer,
+geom	MultiLine
+);
+
+
 create table Placed_Object(
 object_id	Integer,
 name	varchar(1000),
