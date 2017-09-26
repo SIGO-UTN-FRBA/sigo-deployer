@@ -1,1 +1,12 @@
-
+copy tbl_OLS_Rules_ICAOAnnex14 from '/tmp/OLS_Rules_ICAOAnnex14.csv' USING delimiters '|' ;
+copy tbl_aerodromes from '/tmp/aerodromes.csv' USING delimiters '|' ;
+copy tbl_regions from '/tmp/regions.csv' USING delimiters '|' ;	
+copy tbl_runway_classification_ICAOAnnex14 from '/tmp/runway_classification_ICAOAnnex14.csv' USING delimiters '|' ;	
+copy tbl_runway_directions from '/tmp/runway_directions.csv' USING delimiters '|' ;	
+copy tbl_runway_distances_types from '/tmp/runway_distances_types.csv' USING delimiters '|' ;	
+copy tbl_runway_surfaces from '/tmp/runway_surfaces.csv' USING delimiters '|' ;	
+copy tbl_runway_types_impl_ICAOAnnex14 from '/tmp/runway_types_impl_ICAOAnnex14.csv' USING delimiters '|' ;	
+copy tbl_runway_types_letter_ICAOAnnex14 from '/tmp/runway_types_letter_ICAOAnnex14.csv' USING delimiters '|' ;	
+copy tbl_runway_types_number_ICAOAnnex14 from '/tmp/runway_types_number_ICAOAnnex14.csv' USING delimiters '|' ;	
+copy tbl_runways from '/tmp/runways.csv' USING delimiters '|' ;	
+copy tbl_states from '/tmp/states.csv' USING delimiters '|' ;	
