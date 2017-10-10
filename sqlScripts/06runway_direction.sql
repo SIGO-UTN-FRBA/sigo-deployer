@@ -18,9 +18,8 @@ INSERT INTO public.tbl_runway_directions(direction_id, number, position, geom, r
 VALUES (8, 17, 0, ST_GeomFromText('POINT (-58.533951 -34.808264)',4326),180);
 
 
+INSERT INTO public.tbl_runway_directions(direction_id, number, position, geom, runway_id)
+VALUES (75, 31, 0, ST_GeomFromText('POINT (-57.562727 -37.939555)',4326),492);
 
 INSERT INTO public.tbl_runway_directions(direction_id, number, position, geom, runway_id)
-VALUES (75, 31, 0, ST_GeomFromText('POINT (-58.553454 -34.819056)',4326),492);
-
-INSERT INTO public.tbl_runway_directions(direction_id, number, position, geom, runway_id)
-VALUES (76, 13, 0, ST_GeomFromText('POINT (-58.553454 -34.819056)',4326),492);
+VALUES (76, 13, 0, ST_GeomFromText('POINT (-57.583793 -37.928856)',4326),492);
