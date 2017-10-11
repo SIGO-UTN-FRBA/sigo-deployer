@@ -23,3 +23,9 @@ VALUES (75, 31, 0, ST_GeomFromText('POINT (-57.562727 -37.939555)',4326),492);
 
 INSERT INTO public.tbl_runway_directions(direction_id, number, position, geom, runway_id)
 VALUES (76, 13, 0, ST_GeomFromText('POINT (-57.583793 -37.928856)',4326),492);
+
+INSERT INTO public.tbl_runway_directions(direction_id, number, position, geom, runway_id)
+VALUES (487, 14, 0, ST_GeomFromText('POINT (-69.579945 -35.487267)',4326),503);
+
+INSERT INTO public.tbl_runway_directions(direction_id, number, position, geom, runway_id)
+VALUES (488, 32, 0, ST_GeomFromText('POINT (-69.566045 -35.503276)',4326),503);
