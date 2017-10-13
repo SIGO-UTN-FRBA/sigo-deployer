@@ -25,3 +25,14 @@ INSERT INTO public.tbl_placed_object_overhead_wire_spec(spec_id,geom,object_id)
 VALUES (3,ST_GeomFromText('MULTILINESTRING((-71.160281 42.258729,-71.160837 42.259113,-71.161144 42.25932))'),3);
 
 
+INSERT INTO public.tbl_placed_object(object_id, height_agl, height_amls, lighting, mark_indicator,name, subtype, temporary, type, verified, type_building_id,type_individual_id,type_overhead_wire_id, owner_id, location_id, region_id)
+VALUES (8, 613.61, 634, NULL, NULL, 'Torre de iluminacion', 'Torre de iluminacion', FALSE, 1,TRUE, NULL, NULL, NULL, 1, 1, 1);
+
+INSERT INTO public.tbl_placed_object_individual_spec(spec_id,geom,object_id)
+VALUES (6,ST_GeomFromText('POINT (-68.42253405735107 -31.571135273247418)',4326),8);
+
+
+update public.tbl_placed_object
+set type_individual_id = 2 
+where object_id =8;
+
