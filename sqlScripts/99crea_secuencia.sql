@@ -320,7 +320,7 @@ CREATE SEQUENCE public.runway_direction_sequence
   INCREMENT 1
   MINVALUE 1
   MAXVALUE 9223372036854775807
-  START 1000
+  START 2000
   CACHE 1;
 ALTER TABLE public.runway_direction_sequence
   OWNER TO postgres;
