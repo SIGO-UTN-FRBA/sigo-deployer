@@ -21,5 +21,5 @@ INSERT INTO public.tbl_placed_object(object_id, height_agl, height_amls, lightin
 VALUES (3, 608.5, 624.4, 9, 5, 'Arbol individual', 'Arbol', FALSE, 1,TRUE, 1, 151);
 
 INSERT INTO public.tbl_placed_object_individual_spec(spec_id,geom,object_id)
-VALUES (3,ST_GeomFromText('POINT (-68.41962662386513 -31.58737129022446)',4326),3);
+VALUES (3,ST_GeomFromText('POINT (-68.42236363486106 -31.57422520784287)',4326),3);
 
