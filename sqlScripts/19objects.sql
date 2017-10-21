@@ -34,8 +34,6 @@ VALUES (4,ST_GeomFromText('POINT (-58.528804779052734 -34.82981121017313)',4326)
 
 
 
-
-
 INSERT INTO public.tbl_placed_object(object_id, height_agl, height_amls, lighting, mark_indicator,name, subtype, temporary, type, verified,  owner_id, location_id)
 VALUES (4, 20, 50, 9, 5, 'Galpon 1', 'Galpon', FALSE, 0,TRUE, 1, 101);
 
