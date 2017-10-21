@@ -358,3 +358,51 @@
 358,10,2,1,3,pendiente,3.33
 359,10,2,2,4,pendiente,3.33
 360,10,2,3,4,pendiente,3.33
+361,11,0,0,4,Length of inner edge,50
+362,11,0,0,5,Length of inner edge,45
+363,11,0,0,0,Length of inner edge,60
+364,11,0,0,1,Length of inner edge,80
+365,11,0,0,2,Length of inner edge,150
+366,11,0,0,3,Length of inner edge,150
+367,11,0,0,2,Length of inner edge,180
+368,11,0,0,3,Length of inner edge,180
+369,11,0,0,4,Distance from runway end b,25
+370,11,0,0,5,Distance from runway end b,15
+371,11,0,0,0,Distance from runway end b,30
+372,11,0,0,1,Distance from runway end b,60
+373,11,0,0,2,Distance from runway end b,60
+374,11,0,0,3,Distance from runway end b,60
+375,11,0,0,2,Distance from runway end b,60
+376,11,0,0,3,Distance from runway end b,60
+377,11,0,0,4,Divergence (each side),10
+378,11,0,0,5,Divergence (each side),10
+379,11,0,0,0,Divergence (each side),10
+380,11,0,0,1,Divergence (each side),10
+381,11,0,0,2,Divergence (each side),10
+382,11,0,0,3,Divergence (each side),10
+383,11,0,0,2,Divergence (each side),10
+384,11,0,0,3,Divergence (each side),12.5
+385,11,0,0,4,Final width,150
+386,11,0,0,5,Final width,345
+387,11,0,0,0,Final width,380
+388,11,0,0,1,Final width,580
+389,11,0,0,2,Final width,580
+390,11,0,0,3,Final width,580
+391,11,0,0,2,Final width,1200
+392,11,0,0,3,Final width,1200
+393,11,0,0,4,Length,500
+394,11,0,0,5,Length,1500
+395,11,0,0,0,Length,1600
+396,11,0,0,1,Length,2500
+397,11,0,0,2,Length,3000
+398,11,0,0,3,Length,3000
+399,11,0,0,2,Length,15000
+400,11,0,0,3,Length,15000
+401,11,0,0,4,Slope,4
+402,11,0,0,5,Slope,15
+403,11,0,0,0,Slope,5
+404,11,0,0,1,Slope,4
+405,11,0,0,2,Slope,2
+406,11,0,0,3,Slope,2
+407,11,0,0,2,Slope,2
+408,11,0,0,3,Slope,2
