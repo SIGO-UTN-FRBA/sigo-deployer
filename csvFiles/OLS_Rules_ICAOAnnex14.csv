@@ -364,87 +364,135 @@
 364|Length of inner edge|0|0|1|11|80
 365|Length of inner edge|0|0|2|11|150
 366|Length of inner edge|0|0|3|11|150
-367|Length of inner edge|0|1|2|11|180
-368|Length of inner edge|0|1|3|11|180
-369|Length of inner edge|0|2|2|11|180
-370|Length of inner edge|0|2|3|11|180
-371|Distance from runway end|0|0|4|11|25
-372|Distance from runway end|0|0|5|11|15
-373|Distance from runway end|0|0|0|11|30
-374|Distance from runway end|0|0|1|11|60
-375|Distance from runway end|0|0|2|11|60
-376|Distance from runway end|0|0|3|11|60
-377|Distance from runway end|0|1|2|11|60
-378|Distance from runway end|0|1|3|11|60
-379|Distance from runway end|0|2|2|11|60
-380|Distance from runway end|0|2|3|11|60
-381|Divergence (each side)|0|0|4|11|10
-382|Divergence (each side)|0|0|5|11|10
-383|Divergence (each side)|0|0|0|11|10
-384|Divergence (each side)|0|0|1|11|10
-385|Divergence (each side)|0|0|2|11|10
-386|Divergence (each side)|0|0|3|11|10
-387|Divergence (each side)|0|1|2|11|12.5
-388|Divergence (each side)|0|1|3|11|12.5
-389|Divergence (each side)|0|2|2|11|12.5
-390|Divergence (each side)|0|2|3|11|12.5
-391|Final width|0|0|4|11|150
-392|Final width|0|0|5|11|345
-393|Final width|0|0|0|11|380
-394|Final width|0|0|1|11|580
-395|Final width|0|0|2|11|580
-396|Final width|0|0|3|11|580
-397|Final width|0|1|2|11|1200
-398|Final width|0|1|3|11|1200
-399|Final width|0|2|2|11|1200
-400|Final width|0|2|3|11|1200
-401|Length|0|0|4|11|500
-402|Length|0|0|5|11|1500
-403|Length|0|0|0|11|1600
-404|Length|0|0|1|11|2500
-405|Length|0|0|2|11|3000
-406|Length|0|0|3|11|3000
-407|Length|0|1|2|11|15000
-408|Length|0|1|3|11|15000
-409|Length|0|2|2|11|15000
-410|Length|0|2|3|11|15000
-411|Slope|0|0|4|11|4
-412|Slope|0|0|5|11|15
-413|Slope|0|0|0|11|5
-414|Slope|0|0|1|11|4
-415|Slope|0|0|2|11|2
-416|Slope|0|0|3|11|2
-417|Slope|0|1|2|11|2
-418|Slope|0|1|3|11|2
-419|Slope|0|2|2|11|2
-420|Slope|0|2|3|11|2
-421|Width|0|0|4|0|25
-422|Length|0|0|4|0|25
-423|Width|0|0|5|0|22.5
-424|Length|0|0|5|0|15
-425|Width|0|0|0|0|30
-426|Length|0|0|0|0|30
-427|Width|0|0|1|0|40
-428|Length|0|0|1|0|60
-429|Width|0|0|2|0|75
-430|Length|0|0|2|0|60
-431|Width|0|0|3|0|75
-432|Length|0|0|3|0|60
-433|Width|0|1|0|0|40
-434|Length|0|1|0|0|60
-435|Width|0|1|1|0|40
-436|Length|0|1|1|0|60
-437|Width|0|1|2|0|75
-438|Length|0|1|2|0|60
-439|Width|0|1|3|0|75
-440|Length|0|1|3|0|60
-441|Width|1|2|0|0|75
-442|Length|1|2|0|0|60
-443|Width|1|2|1|0|75
-444|Length|1|2|1|0|60
-445|Width|1|2|2|0|150
-446|Length|1|2|2|0|60
-447|Width|2|2|3|0|150
-448|Length|2|2|3|0|60
-449|Width|3|2|3|0|150
-450|Length|3|2|3|0|60
+367|Length of inner edge|0|1|4|11|50
+368|Length of inner edge|0|1|5|11|45
+369|Length of inner edge|0|1|0|11|60
+370|Length of inner edge|0|1|1|11|80
+371|Length of inner edge|0|1|2|11|180
+372|Length of inner edge|0|1|3|11|180
+373|Length of inner edge|0|2|4|11|50
+374|Length of inner edge|0|2|5|11|45
+375|Length of inner edge|0|2|0|11|60
+376|Length of inner edge|0|2|1|11|80
+377|Length of inner edge|0|2|2|11|180
+378|Length of inner edge|0|2|3|11|180
+379|Distance from runway end|0|0|4|11|25
+380|Distance from runway end|0|0|5|11|15
+381|Distance from runway end|0|0|0|11|30
+382|Distance from runway end|0|0|1|11|60
+383|Distance from runway end|0|0|2|11|60
+384|Distance from runway end|0|0|3|11|60
+385|Distance from runway end|0|1|4|11|25
+386|Distance from runway end|0|1|5|11|15
+387|Distance from runway end|0|1|0|11|30
+388|Distance from runway end|0|1|1|11|60
+389|Distance from runway end|0|1|2|11|60
+390|Distance from runway end|0|1|3|11|60
+391|Distance from runway end|0|2|4|11|25
+392|Distance from runway end|0|2|5|11|15
+393|Distance from runway end|0|2|0|11|30
+394|Distance from runway end|0|2|1|11|60
+395|Distance from runway end|0|2|2|11|60
+396|Distance from runway end|0|2|3|11|60
+397|Divergence (each side)|0|0|4|11|10
+398|Divergence (each side)|0|0|5|11|10
+399|Divergence (each side)|0|0|0|11|10
+400|Divergence (each side)|0|0|1|11|10
+401|Divergence (each side)|0|0|2|11|10
+402|Divergence (each side)|0|0|3|11|10
+403|Divergence (each side)|0|1|4|11|10
+404|Divergence (each side)|0|1|5|11|10
+405|Divergence (each side)|0|1|0|11|10
+406|Divergence (each side)|0|1|1|11|10
+407|Divergence (each side)|0|1|2|11|12.5
+408|Divergence (each side)|0|1|3|11|12.5
+409|Divergence (each side)|0|2|4|11|10
+410|Divergence (each side)|0|2|5|11|10
+411|Divergence (each side)|0|2|0|11|10
+412|Divergence (each side)|0|2|1|11|10
+413|Divergence (each side)|0|2|2|11|12.5
+414|Divergence (each side)|0|2|3|11|12.5
+415|Final width|0|0|4|11|150
+416|Final width|0|0|5|11|345
+417|Final width|0|0|0|11|380
+418|Final width|0|0|1|11|580
+419|Final width|0|0|2|11|580
+420|Final width|0|0|3|11|580
+421|Final width|0|1|4|11|150
+422|Final width|0|1|5|11|345
+423|Final width|0|1|0|11|380
+424|Final width|0|1|1|11|580
+425|Final width|0|1|2|11|1200
+426|Final width|0|1|3|11|1200
+427|Final width|0|2|4|11|150
+428|Final width|0|2|5|11|345
+429|Final width|0|2|0|11|380
+430|Final width|0|2|1|11|580
+431|Final width|0|2|2|11|1200
+432|Final width|0|2|3|11|1200
+433|Length|0|0|4|11|500
+434|Length|0|0|5|11|1500
+435|Length|0|0|0|11|1600
+436|Length|0|0|1|11|2500
+437|Length|0|0|2|11|3000
+438|Length|0|0|3|11|3000
+439|Length|0|1|4|11|500
+440|Length|0|1|5|11|1500
+441|Length|0|1|0|11|1600
+442|Length|0|1|1|11|2500
+443|Length|0|1|2|11|15000
+444|Length|0|1|3|11|15000
+445|Length|0|2|4|11|500
+446|Length|0|2|5|11|1500
+447|Length|0|2|0|11|1600
+448|Length|0|2|1|11|2500
+449|Length|0|2|2|11|15000
+450|Length|0|2|3|11|15000
+451|Slope|0|0|4|11|4
+452|Slope|0|0|5|11|15
+453|Slope|0|0|0|11|5
+454|Slope|0|0|1|11|4
+455|Slope|0|0|2|11|2
+456|Slope|0|0|3|11|2
+457|Slope|0|1|4|11|4
+458|Slope|0|1|5|11|15
+459|Slope|0|1|0|11|5
+460|Slope|0|1|1|11|4
+461|Slope|0|1|2|11|2
+462|Slope|0|1|3|11|2
+463|Slope|0|2|4|11|4
+464|Slope|0|2|5|11|15
+465|Slope|0|2|0|11|5
+466|Slope|0|2|1|11|4
+467|Slope|0|2|2|11|2
+468|Slope|0|2|3|11|2
+469|Width|0|0|4|0|25
+470|Length|0|0|4|0|25
+471|Width|0|0|5|0|22.5
+472|Length|0|0|5|0|15
+473|Width|0|0|0|0|30
+474|Length|0|0|0|0|30
+475|Width|0|0|1|0|40
+476|Length|0|0|1|0|60
+477|Width|0|0|2|0|75
+478|Length|0|0|2|0|60
+479|Width|0|0|3|0|75
+480|Length|0|0|3|0|60
+481|Width|0|1|0|0|40
+482|Length|0|1|0|0|60
+483|Width|0|1|1|0|40
+484|Length|0|1|1|0|60
+485|Width|0|1|2|0|75
+486|Length|0|1|2|0|60
+487|Width|0|1|3|0|75
+488|Length|0|1|3|0|60
+489|Width|1|2|0|0|75
+490|Length|1|2|0|0|60
+491|Width|1|2|1|0|75
+492|Length|1|2|1|0|60
+493|Width|1|2|2|0|150
+494|Length|1|2|2|0|60
+495|Width|2|2|3|0|150
+496|Length|2|2|3|0|60
+497|Width|3|2|3|0|150
+498|Length|3|2|3|0|60
