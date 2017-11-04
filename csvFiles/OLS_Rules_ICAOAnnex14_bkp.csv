@@ -1,0 +1,438 @@
+1|Slope|0|0|4|1|0
+2|Slope|0|0|5|1|5
+3|Slope|0|0|1|1|5
+4|Slope|0|0|2|1|5
+5|Slope|0|0|3|1|5
+6|Slope|0|0|4|1|5
+7|Slope|0|1|1|1|5
+8|Slope|0|1|2|1|5
+9|Slope|0|1|3|1|5
+10|Slope|0|1|4|1|5
+11|Slope|1|2|1|1|5
+12|Slope|1|2|2|1|5
+13|Slope|1|2|3|1|5
+14|Slope|2|2|4|1|5
+15|Slope|3|2|4|1|5
+16|Height|0|0|4|1|0
+17|Height|0|0|5|1|50
+18|Height|0|0|1|1|100
+19|Height|0|0|2|1|100
+20|Height|0|0|3|1|100
+21|Height|0|0|4|1|100
+22|Height|0|1|1|1|100
+23|Height|0|1|2|1|100
+24|Height|0|1|3|1|100
+25|Height|0|1|4|1|100
+26|Height|1|2|1|1|100
+27|Height|1|2|2|1|100
+28|Height|1|2|3|1|100
+29|Height|2|2|4|1|100
+30|Height|3|2|4|1|100
+31|Radius|0|0|4|1|0
+32|Radius|0|0|5|1|1000
+33|Radius|0|0|1|1|2000
+34|Radius|0|0|2|1|2000
+35|Radius|0|0|3|1|2000
+36|Radius|0|0|4|1|2000
+37|Radius|0|1|1|1|2000
+38|Radius|0|1|2|1|2000
+39|Radius|0|1|3|1|2000
+40|Radius|0|1|4|1|2000
+41|Radius|1|2|1|1|2000
+42|Radius|1|2|2|1|2000
+43|Radius|1|2|3|1|2000
+44|Radius|2|2|4|1|2000
+45|Radius|3|2|4|1|2000
+46|Height|0|0|4|2|0
+47|Height|0|0|5|2|45
+48|Height|0|0|1|2|45
+49|Height|0|0|2|2|45
+50|Height|0|0|3|2|45
+51|Height|0|0|4|2|45
+52|Height|0|1|1|2|45
+53|Height|0|1|2|2|45
+54|Height|0|1|3|2|45
+55|Height|0|1|4|2|45
+56|Height|1|2|1|2|45
+57|Height|1|2|2|2|45
+58|Height|1|2|3|2|45
+59|Height|2|2|4|2|45
+60|Height|3|2|4|2|45
+61|Radius|0|0|4|2|0
+62|Radius|0|0|5|2|1000
+63|Radius|0|0|1|2|2000
+64|Radius|0|0|2|2|2500
+65|Radius|0|0|3|2|4000
+66|Radius|0|0|4|2|4000
+67|Radius|0|1|1|2|3500
+68|Radius|0|1|2|2|3500
+69|Radius|0|1|3|2|4000
+70|Radius|0|1|4|2|4000
+71|Radius|1|2|1|2|3500
+72|Radius|1|2|2|2|3500
+73|Radius|1|2|3|2|4000
+74|Radius|2|2|4|2|4000
+75|Radius|3|2|4|2|4000
+76|Width|0|0|4|3|0
+77|Width|0|0|5|3|0
+78|Width|0|0|1|3|0
+79|Width|0|0|2|3|0
+80|Width|0|0|3|3|0
+81|Width|0|0|4|3|0
+82|Width|0|1|1|3|0
+83|Width|0|1|2|3|0
+84|Width|0|1|3|3|0
+85|Width|0|1|4|3|0
+86|Width|1|2|1|3|90
+87|Width|1|2|2|3|90
+88|Width|1|2|3|3|120
+89|Width|2|2|4|3|120
+90|Width|3|2|4|3|120
+91|Distance from threshold|0|0|4|3|0
+92|Distance from threshold|0|0|5|3|0
+93|Distance from threshold|0|0|1|3|0
+94|Distance from threshold|0|0|2|3|0
+95|Distance from threshold|0|0|3|3|0
+96|Distance from threshold|0|0|4|3|0
+97|Distance from threshold|0|1|1|3|0
+98|Distance from threshold|0|1|2|3|0
+99|Distance from threshold|0|1|3|3|0
+100|Distance from threshold|0|1|4|3|0
+101|Distance from threshold|1|2|1|3|60
+102|Distance from threshold|1|2|2|3|60
+103|Distance from threshold|1|2|3|3|60
+104|Distance from threshold|2|2|4|3|60
+105|Distance from threshold|3|2|4|3|60
+106|Length|0|0|4|3|0
+107|Length|0|0|5|3|0
+108|Length|0|0|1|3|0
+109|Length|0|0|2|3|0
+110|Length|0|0|3|3|0
+111|Length|0|0|4|3|0
+112|Length|0|1|1|3|0
+113|Length|0|1|2|3|0
+114|Length|0|1|3|3|0
+115|Length|0|1|4|3|0
+116|Length|1|2|1|3|900
+117|Length|1|2|2|3|900
+118|Length|1|2|3|3|900
+119|Length|2|2|4|3|900
+120|Length|3|2|4|3|900
+121|Slope|0|0|4|3|0
+122|Slope|0|0|5|3|0
+123|Slope|0|0|1|3|0
+124|Slope|0|0|2|3|0
+125|Slope|0|0|3|3|0
+126|Slope|0|0|4|3|0
+127|Slope|0|1|1|3|0
+128|Slope|0|1|2|3|0
+129|Slope|0|1|3|3|0
+130|Slope|0|1|4|3|0
+131|Slope|1|2|1|3|2.5
+132|Slope|1|2|2|3|2.5
+133|Slope|1|2|3|3|2
+134|Slope|2|2|4|3|2
+135|Slope|3|2|4|3|2
+136|Length of inner edge|0|0|4|4|50
+137|Length of inner edge|0|0|5|4|45
+138|Length of inner edge|0|0|1|4|60
+139|Length of inner edge|0|0|2|4|80
+140|Length of inner edge|0|0|3|4|150
+141|Length of inner edge|0|0|4|4|150
+142|Length of inner edge|0|1|1|4|150
+143|Length of inner edge|0|1|2|4|150
+144|Length of inner edge|0|1|3|4|300
+145|Length of inner edge|0|1|4|4|300
+146|Length of inner edge|1|2|1|4|150
+147|Length of inner edge|1|2|2|4|150
+148|Length of inner edge|1|2|3|4|300
+149|Length of inner edge|2|2|4|4|300
+150|Length of inner edge|3|2|4|4|300
+151|Distance from threshold|0|0|4|4|25
+152|Distance from threshold|0|0|5|4|15
+153|Distance from threshold|0|0|1|4|30
+154|Distance from threshold|0|0|2|4|60
+155|Distance from threshold|0|0|3|4|60
+156|Distance from threshold|0|0|4|4|60
+157|Distance from threshold|0|1|1|4|60
+158|Distance from threshold|0|1|2|4|60
+159|Distance from threshold|0|1|3|4|60
+160|Distance from threshold|0|1|4|4|60
+161|Distance from threshold|1|2|1|4|60
+162|Distance from threshold|1|2|2|4|60
+163|Distance from threshold|1|2|3|4|60
+164|Distance from threshold|2|2|4|4|60
+165|Distance from threshold|3|2|4|4|60
+166|Divergence (each side)|0|0|4|4|10
+167|Divergence (each side)|0|0|5|4|10
+168|Divergence (each side)|0|0|1|4|10
+169|Divergence (each side)|0|0|2|4|10
+170|Divergence (each side)|0|0|3|4|10
+171|Divergence (each side)|0|0|4|4|10
+172|Divergence (each side)|0|1|1|4|15
+173|Divergence (each side)|0|1|2|4|15
+174|Divergence (each side)|0|1|3|4|15
+175|Divergence (each side)|0|1|4|4|15
+176|Divergence (each side)|1|2|1|4|15
+177|Divergence (each side)|1|2|2|4|15
+178|Divergence (each side)|1|2|3|4|15
+179|Divergence (each side)|2|2|4|4|15
+180|Divergence (each side)|3|2|4|4|15
+181|Length First section|0|0|4|4|500
+182|Length First section|0|0|5|4|1500
+183|Length First section|0|0|1|4|1600
+184|Length First section|0|0|2|4|2500
+185|Length First section|0|0|3|4|3000
+186|Length First section|0|0|4|4|3000
+187|Length First section|0|1|1|4|2500
+188|Length First section|0|1|2|4|2500
+189|Length First section|0|1|3|4|3000
+190|Length First section|0|1|4|4|3000
+191|Length First section|1|2|1|4|3000
+192|Length First section|1|2|2|4|3000
+193|Length First section|1|2|3|4|3000
+194|Length First section|2|2|4|4|3000
+195|Length First section|3|2|4|4|3000
+196|Scope Length First section|0|0|4|4|4
+197|Scope Length First section|0|0|5|4|15
+198|Scope Length First section|0|0|1|4|5
+199|Scope Length First section|0|0|2|4|4
+200|Scope Length First section|0|0|3|4|3.33
+201|Scope Length First section|0|0|4|4|2.5
+202|Scope Length First section|0|1|1|4|3.3
+203|Scope Length First section|0|1|2|4|3.3
+204|Scope Length First section|0|1|3|4|2
+205|Scope Length First section|0|1|4|4|2
+206|Scope Length First section|1|2|1|4|2.5
+207|Scope Length First section|1|2|2|4|2.5
+208|Scope Length First section|1|2|3|4|2
+209|Scope Length First section|2|2|4|4|2
+210|Scope Length First section|3|2|4|4|2
+211|Length Second section|0|0|4|4|0
+212|Length Second section|0|0|5|4|0
+213|Length Second section|0|0|1|4|0
+214|Length Second section|0|0|2|4|0
+215|Length Second section|0|0|3|4|0
+216|Length Second section|0|0|4|4|0
+217|Length Second section|0|1|1|4|0
+218|Length Second section|0|1|2|4|0
+219|Length Second section|0|1|3|4|3600
+220|Length Second section|0|1|4|4|3600
+221|Length Second section|1|2|1|4|12000
+222|Length Second section|1|2|2|4|12000
+223|Length Second section|1|2|3|4|3600
+224|Length Second section|2|2|4|4|3600
+225|Length Second section|3|2|4|4|3600
+226|Scope Second section|0|0|4|4|0
+227|Scope Second section|0|0|5|4|0
+228|Scope Second section|0|0|1|4|0
+229|Scope Second section|0|0|2|4|0
+230|Scope Second section|0|0|3|4|0
+231|Scope Second section|0|0|4|4|0
+232|Scope Second section|0|1|1|4|0
+233|Scope Second section|0|1|2|4|0
+234|Scope Second section|0|1|3|4|2.5
+235|Scope Second section|0|1|4|4|2.5
+236|Scope Second section|1|2|1|4|3
+237|Scope Second section|1|2|2|4|3
+238|Scope Second section|1|2|3|4|2.5
+239|Scope Second section|2|2|4|4|2.5
+240|Scope Second section|3|2|4|4|2.5
+241|Length Horizontal section|0|0|4|4|0
+242|Length Horizontal section|0|0|5|4|0
+243|Length Horizontal section|0|0|1|4|0
+244|Length Horizontal section|0|0|2|4|0
+245|Length Horizontal section|0|0|3|4|0
+246|Length Horizontal section|0|0|4|4|0
+247|Length Horizontal section|0|1|1|4|0
+248|Length Horizontal section|0|1|2|4|0
+249|Length Horizontal section|0|1|3|4|8400
+250|Length Horizontal section|0|1|4|4|8400
+251|Length Horizontal section|1|2|1|4|0
+252|Length Horizontal section|1|2|2|4|0
+253|Length Horizontal section|1|2|3|4|8400
+254|Length Horizontal section|2|2|4|4|8400
+255|Length Horizontal section|3|2|4|4|8400
+256|Length Horizontal section total|0|0|4|4|0
+257|Length Horizontal section total|0|0|5|4|0
+258|Length Horizontal section total|0|0|1|4|0
+259|Length Horizontal section total|0|0|2|4|0
+260|Length Horizontal section total|0|0|3|4|0
+261|Length Horizontal section total|0|0|4|4|0
+262|Length Horizontal section total|0|1|1|4|0
+263|Length Horizontal section total|0|1|2|4|0
+264|Length Horizontal section total|0|1|3|4|15000
+265|Length Horizontal section total|0|1|4|4|15000
+266|Length Horizontal section total|1|2|1|4|15000
+267|Length Horizontal section total|1|2|2|4|15000
+268|Length Horizontal section total|1|2|3|4|15000
+269|Length Horizontal section total|2|2|4|4|15000
+270|Length Horizontal section total|3|2|4|4|15000
+271|Slope|0|0|4|8|50
+272|Slope|0|0|5|8|50
+273|Slope|0|0|1|8|20
+274|Slope|0|0|2|8|20
+275|Slope|0|0|3|8|14.3
+276|Slope|0|0|4|8|14.3
+277|Slope|0|1|1|8|20
+278|Slope|0|1|2|8|20
+279|Slope|0|1|3|8|14.3
+280|Slope|0|1|4|8|14.3
+281|Slope|1|2|1|8|14.3
+282|Slope|1|2|2|8|14.3
+283|Slope|1|2|3|8|14.3
+284|Slope|2|2|4|8|14.3
+285|Slope|3|2|4|8|14.3
+286|Slope|0|0|4|9|0
+287|Slope|0|0|5|9|0
+288|Slope|0|0|1|9|0
+289|Slope|0|0|2|9|0
+290|Slope|0|0|3|9|0
+291|Slope|0|0|4|9|0
+292|Slope|0|1|1|9|0
+293|Slope|0|1|2|9|0
+294|Slope|0|1|3|9|0
+295|Slope|0|1|4|9|0
+296|Slope|1|2|1|9|40
+297|Slope|1|2|2|9|40
+298|Slope|1|2|3|9|33.3
+299|Slope|2|2|4|9|33.3
+300|Slope|3|2|4|9|33.3
+301|Length of inner edge|0|0|4|10|0
+302|Length of inner edge|0|0|5|10|0
+303|Length of inner edge|0|0|1|10|0
+304|Length of inner edge|0|0|2|10|0
+305|Length of inner edge|0|0|3|10|0
+306|Length of inner edge|0|0|4|10|0
+307|Length of inner edge|0|1|1|10|0
+308|Length of inner edge|0|1|2|10|0
+309|Length of inner edge|0|1|3|10|0
+310|Length of inner edge|0|1|4|10|0
+311|Length of inner edge|1|2|1|10|0
+312|Length of inner edge|1|2|2|10|0
+313|Length of inner edge|1|2|3|10|120
+314|Length of inner edge|2|2|4|10|120
+315|Length of inner edge|3|2|4|10|120
+316|Distance from threshold|0|0|4|10|0
+317|Distance from threshold|0|0|5|10|0
+318|Distance from threshold|0|0|1|10|0
+319|Distance from threshold|0|0|2|10|0
+320|Distance from threshold|0|0|3|10|0
+321|Distance from threshold|0|0|4|10|0
+322|Distance from threshold|0|1|1|10|0
+323|Distance from threshold|0|1|2|10|0
+324|Distance from threshold|0|1|3|10|0
+325|Distance from threshold|0|1|4|10|0
+326|Distance from threshold|1|2|1|10|0
+327|Distance from threshold|1|2|2|10|0
+328|Distance from threshold|1|2|3|10|1800
+329|Distance from threshold|2|2|4|10|1800
+330|Distance from threshold|3|2|4|10|1800
+331|Divergence (each side)|0|0|4|10|0
+332|Divergence (each side)|0|0|5|10|0
+333|Divergence (each side)|0|0|1|10|0
+334|Divergence (each side)|0|0|2|10|0
+335|Divergence (each side)|0|0|3|10|0
+336|Divergence (each side)|0|0|4|10|0
+337|Divergence (each side)|0|1|1|10|0
+338|Divergence (each side)|0|1|2|10|0
+339|Divergence (each side)|0|1|3|10|0
+340|Divergence (each side)|0|1|4|10|0
+341|Divergence (each side)|1|2|1|10|10
+342|Divergence (each side)|1|2|2|10|10
+343|Divergence (each side)|1|2|3|10|10
+344|Divergence (each side)|2|2|4|10|10
+345|Divergence (each side)|3|2|4|10|10
+346|Slope|0|0|4|10|0
+347|Slope|0|0|5|10|0
+348|Slope|0|0|1|10|0
+349|Slope|0|0|2|10|0
+350|Slope|0|0|3|10|0
+351|Slope|0|0|4|10|0
+352|Slope|0|1|1|10|0
+353|Slope|0|1|2|10|0
+354|Slope|0|1|3|10|0
+355|Slope|0|1|4|10|0
+356|Slope|1|2|1|10|4
+357|Slope|1|2|2|10|4
+358|Slope|1|2|3|10|3.33
+359|Slope|2|2|4|10|3.33
+360|Slope|3|2|4|10|3.33
+361|Length of inner edge|0|0|4|11|50
+362|Length of inner edge|0|0|5|11|45
+363|Length of inner edge|0|0|0|11|60
+364|Length of inner edge|0|0|1|11|80
+365|Length of inner edge|0|0|2|11|150
+366|Length of inner edge|0|0|3|11|150
+367|Length of inner edge|0|0|2|11|180
+368|Length of inner edge|0|0|3|11|180
+369|Distance from runway end b|0|0|4|11|25
+370|Distance from runway end b|0|0|5|11|15
+371|Distance from runway end b|0|0|0|11|30
+372|Distance from runway end b|0|0|1|11|60
+373|Distance from runway end b|0|0|2|11|60
+374|Distance from runway end b|0|0|3|11|60
+375|Distance from runway end b|0|0|2|11|60
+376|Distance from runway end b|0|0|3|11|60
+377|Divergence (each side)|0|0|4|11|10
+378|Divergence (each side)|0|0|5|11|10
+379|Divergence (each side)|0|0|0|11|10
+380|Divergence (each side)|0|0|1|11|10
+381|Divergence (each side)|0|0|2|11|10
+382|Divergence (each side)|0|0|3|11|10
+383|Divergence (each side)|0|0|2|11|10
+384|Divergence (each side)|0|0|3|11|12.5
+385|Final width|0|0|4|11|150
+386|Final width|0|0|5|11|345
+387|Final width|0|0|0|11|380
+388|Final width|0|0|1|11|580
+389|Final width|0|0|2|11|580
+390|Final width|0|0|3|11|580
+391|Final width|0|0|2|11|1200
+392|Final width|0|0|3|11|1200
+393|Length|0|0|4|11|500
+394|Length|0|0|5|11|1500
+395|Length|0|0|0|11|1600
+396|Length|0|0|1|11|2500
+397|Length|0|0|2|11|3000
+398|Length|0|0|3|11|3000
+399|Length|0|0|2|11|15000
+400|Length|0|0|3|11|15000
+401|Slope|0|0|4|11|4
+402|Slope|0|0|5|11|15
+403|Slope|0|0|0|11|5
+404|Slope|0|0|1|11|4
+405|Slope|0|0|2|11|2
+406|Slope|0|0|3|11|2
+407|Slope|0|0|2|11|2
+408|Slope|0|0|3|11|2
+409|Width|0|0|4|0|25
+410|Length|0|0|4|0|25
+411|Width|0|0|5|0|22.5
+412|Length|0|0|5|0|15
+413|Width|0|0|0|0|30
+414|Length|0|0|0|0|30
+415|Width|0|0|1|0|40
+416|Length|0|0|1|0|60
+417|Width|0|0|2|0|75
+418|Length|0|0|2|0|60
+419|Width|0|0|3|0|75
+420|Length|0|0|3|0|60
+421|Width|0|1|0|0|40
+422|Length|0|1|0|0|60
+423|Width|0|1|1|0|40
+424|Length|0|1|1|0|60
+425|Width|0|1|2|0|75
+426|Length|0|1|2|0|60
+427|Width|0|1|3|0|75
+428|Length|0|1|3|0|60
+429|Width|1|2|0|0|75
+430|Length|1|2|0|0|60
+431|Width|1|2|1|0|75
+432|Length|1|2|1|0|60
+433|Width|1|2|2|0|150
+434|Length|1|2|2|0|60
+435|Width|2|2|3|0|150
+436|Length|2|2|3|0|60
+437|Width|3|2|3|0|150
+438|Length|3|2|3|0|60
