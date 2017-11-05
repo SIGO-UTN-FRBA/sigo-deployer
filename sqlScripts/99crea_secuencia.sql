@@ -219,9 +219,6 @@ CREATE SEQUENCE public.runwayclassificationicaoannex14_sequence
 ALTER TABLE public.runwayclassificationicaoannex14_sequence
   OWNER TO postgres;
 
-
-
-
 -- Sequence: public.state_sequence
 
 DROP SEQUENCE public.state_sequence;
@@ -235,3 +232,29 @@ CREATE SEQUENCE public.state_sequence
 ALTER TABLE public.state_sequence
   OWNER TO postgres;
 
+-- Sequence: public.analysis_sequence
+
+DROP SEQUENCE public.analysis_sequence;
+
+CREATE SEQUENCE public.analysis_sequence
+  INCREMENT 1
+  MINVALUE 1
+  MAXVALUE 9223372036854775807
+  START 1000
+  CACHE 1;
+ALTER TABLE public.analysis_sequence
+  OWNER TO postgres;
+
+
+-- Sequence: ANALYSIS_CASE_SEQUENCE
+
+DROP SEQUENCE public.ANALYSIS_CASE_SEQUENCE;
+
+CREATE SEQUENCE public.ANALYSIS_CASE_SEQUENCE
+  INCREMENT 1
+  MINVALUE 1
+  MAXVALUE 9223372036854775807
+  START 1000
+  CACHE 1;
+ALTER TABLE public.ANALYSIS_CASE_SEQUENCE
+  OWNER TO postgres;
