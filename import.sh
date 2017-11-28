@@ -11,7 +11,7 @@ ls -1 ./sqlScripts/*.sql | while read linea; do
 done
 
 
-rm /tmp/*csv
+rm -f /tmp/*csv
 
 echo "$(date +%m%d%H%M%S) Fin proceso"
 

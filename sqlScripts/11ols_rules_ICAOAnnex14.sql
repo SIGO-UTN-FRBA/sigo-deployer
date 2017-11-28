@@ -1,9 +1,7 @@
-/*copy tbl_OLS_rules_ICAOAnnex14(rule_id, surface_name,runway_classification , runway_category, runway_code_number, property, value) from '/tmp/OLS_Rules_ICAOAnnex14.csv' USING delimiters ',' ;*/
 
+copy public.tbl_ols_rules(rule_id, regulation_id)
+from '/tmp/OLS_Rules.csv' USING delimiters '|' ;
 
-copy tbl_OLS_rules_ICAOAnnex14 from '/tmp/OLS_Rules_ICAOAnnex14.csv' USING delimiters '|' ;
-
-INSERT INTO public.tbl_ols_rules(rule_id,regulation_id)
-select rule_id,0
-FROM public.tbl_ols_rules_icaoannex14;
+copy tbl_ols_rules_icaoannex14 (rule_id, property, runway_category, runway_classification, runway_code_number, surface_name, value)
+from '/tmp/OLS_Rules_ICAOAnnex14.csv' USING delimiters '|' ;
 
