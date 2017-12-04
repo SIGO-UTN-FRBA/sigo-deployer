@@ -45,3 +45,45 @@ INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighti
 INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id) VALUES (49, 949, 949, 0, 0, 'EDIFICACION_Jujuy_49', 'EDIFICACION', 'false', 0, 'true', 1, 25);
 INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id) VALUES (51, 949, 949.5, 0, 0, 'EDIFICACION_Jujuy_51', 'EDIFICACION', 'false', 0, 'true', 1, 25);
 INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id) VALUES (47, 20, 20, 0, 0, 'Cuartel de Bomberos Aeropuerto Internacional de Ezeiza', 'Galpon 2', 'false', 0, 'true', 1, 231);
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (52, 69, 69, 0, 0, 'Antena 17', 'Antena', 'false', 0, 'true', 1, 231);
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (53, 50, 50, 0, 0, 'Arbol 17', 'Arbol', 'false', 0, 'true', 1, 231);
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (54, 34, 34, 0, 0, 'Arboleada 17', 'Arboleada', 'false', 0, 'true', 1, 231);
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (55, 42, 42, 0, 0, 'Arboleada 29', 'Arboleada', 'false', 0, 'true', 1, 231);
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (56, 95.9, 95.9, 0, 0, 'Antena 29', 'Antena', 'false', 0, 'true', 1, 231);
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (57, 45, 45, 0, 0, 'Antena LI 35', 'Antena', 'false', 0, 'true', 1, 231);
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (58, 48.5, 48.5, 0, 0, 'Antena 35', 'Antena', 'false', 0, 'true', 1, 231);
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (59, 29.5, 29.5, 0, 0, 'linea de tension', 'linea de tension', 'false', 0, 'true', 1, 231);
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (60, 39.5, 39.5, 0, 0, 'Arbol 17', 'Arbol', 'false', 0, 'true', 1, 231);
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (61, 36.5, 36.5, 0, 0, 'Arbol 17', 'Arbol', 'false', 0, 'true', 1, 231);
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (62, 36, 36, 0, 0, 'Arboleada 17', 'Arboleada', 'false', 0, 'true', 1, 231);
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (63, 34, 34, 0, 0, 'Arbol 17', 'Arbol', 'false', 0, 'true', 1, 231);
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (64, 40.5, 40.5, 0, 0, 'Arbol 17', 'Arbol', 'false', 0, 'true', 1, 231);
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (65, 40, 40, 0, 0, 'columna iluminacion 1', 'columna iluminacion', 'false', 0, 'true', 1, 231);
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (66, 40, 40, 0, 0, 'columna iluminacion 2', 'columna iluminacion', 'false', 0, 'true', 1, 231);
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (67, 70.7, 70.7, 0, 0, 'antena Ad', 'antena', 'false', 0, 'true', 1, 231);
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (68, 30, 30, 0, 0, 'arboleada Ad', 'arboleada', 'false', 0, 'true', 1, 231);
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (69, 66, 66, 0, 0, 'arboleada Ad', 'arboleada', 'false', 0, 'true', 1, 231);
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (70, 60, 60, 0, 0, 'construccion', 'construccion', 'false', 0, 'true', 1, 16);
+
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (71, 8.4, 8.4, 0, 0, 'Antena Loc', 'Antena', 'false', 0, 'true', 1, 16);
+
