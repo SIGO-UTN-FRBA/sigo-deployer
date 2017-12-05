@@ -87,3 +87,39 @@ VALUES (70, 60, 60, 0, 0, 'construccion', 'construccion', 'false', 0, 'true', 1,
 INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
 VALUES (71, 8.4, 8.4, 0, 0, 'Antena Loc', 'Antena', 'false', 0, 'true', 1, 16);
 
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (72, 1030, 1030, 0, 0, 'Cerro 1', 'Cerro', 'false', 0, 'true', 1, 378);
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (73, 1020, 1020, 0, 0, 'Cerro 2', 'Cerro', 'false', 0, 'true', 1, 378);
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (74, 1000, 1000, 0, 0, 'Cerro 3', 'Cerro', 'false', 0, 'true', 1, 378);
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (75, 1000, 1000, 0, 0, 'Cerro 4', 'Cerro', 'false', 0, 'true', 1, 378);
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (76, 1100, 1100, 0, 0, 'Cerro 5', 'Cerro', 'false', 0, 'true', 1, 378);
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (77, 1100, 1100, 0, 0, 'Cerro 6', 'Cerro', 'false', 0, 'true', 1, 378);
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (78, 1000, 1000, 0, 0, 'Cerro 7', 'Cerro', 'false', 0, 'true', 1, 378);
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (79, 1060, 1060, 0, 0, 'Cerro 8', 'Cerro', 'false', 0, 'true', 1, 378);
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (80, 1000, 1000, 0, 0, 'Cerro 9', 'Cerro', 'false', 0, 'true', 1, 378);
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (81, 1080, 1080, 0, 0, 'Cerro 10', 'Cerro', 'false', 0, 'true', 1, 378);
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (82, 1210, 1210, 0, 0, 'Cerro 11', 'Cerro', 'false', 0, 'true', 1, 378);
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (83, 1210, 1210, 0, 0, 'Cerro 12', 'Cerro', 'false', 0, 'true', 1, 378);
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (84, 1080, 1080, 0, 0, 'Cerro 13', 'Cerro', 'false', 0, 'true', 1, 378);
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (85, 1040, 1040, 0, 0, 'Cerro 14', 'Cerro', 'false', 0, 'true', 1, 378);
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (86, 930, 930, 0, 0, 'Cerro 15', 'Cerro', 'false', 0, 'true', 1, 378);
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (87, 1120, 1120, 0, 0, 'Cerro 16', 'Cerro', 'false', 0, 'true', 1, 378);
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (88, 990, 990, 0, 0, 'Cerro 17', 'Cerro', 'false', 0, 'true', 1, 378);
+INSERT INTO public.tbl_placed_object (object_id, height_agl, height_amls, lighting, mark_indicator, name, subtype, temporary, type, verified, owner_id, location_id)
+VALUES (89, 1020, 1020, 0, 0, 'Cerro 18', 'Cerro', 'false', 0, 'true', 1, 378);
