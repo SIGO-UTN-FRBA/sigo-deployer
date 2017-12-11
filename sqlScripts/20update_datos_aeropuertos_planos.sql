@@ -56,4 +56,14 @@ update tbl_runway_directions set azimuth=4 where direction_id=459;
 
 
 
+--SABE
+update tbl_runway_takeoff_sections set clearway_length=0,clearway_width=0 ,stopway_length=0 where direction_id=12;
+update tbl_runway_directions set azimuth=131 where direction_id=12;
+
+
+--SAEZ
+
+update tbl_runway_directions set azimuth=352 where direction_id=7;
+update tbl_runway_directions set azimuth=172 where direction_id=8;
+
 
