@@ -29,3 +29,9 @@ UPDATE tbl_runway_strips
 SET strip_length = 2200, strip_width = 270
 WHERE strip_id = 12;
 
+
+--SAZS
+
+UPDATE tbl_runway_strips
+SET strip_length = 2468, strip_width = 300
+WHERE strip_id = 704;
