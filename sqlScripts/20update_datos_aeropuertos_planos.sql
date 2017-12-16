@@ -66,4 +66,41 @@ update tbl_runway_directions set azimuth=131 where direction_id=12;
 update tbl_runway_directions set azimuth=352 where direction_id=7;
 update tbl_runway_directions set azimuth=172 where direction_id=8;
 
+--cargo las azimuth de los 23 aeropuertos encontrados ultimos
+
+
+update tbl_runway_directions set azimuth=72 where direction_id=740;
+update tbl_runway_directions set azimuth=252 where direction_id=739;
+update tbl_runway_directions set azimuth=157 where direction_id=2;
+update tbl_runway_directions set azimuth=239 where direction_id=36;
+update tbl_runway_directions set azimuth=59 where direction_id=35;
+update tbl_runway_directions set azimuth=13 where direction_id=330;
+update tbl_runway_directions set azimuth=360 where direction_id=167;
+update tbl_runway_directions set azimuth=180 where direction_id=168;
+update tbl_runway_directions set azimuth=130 where direction_id=338;
+update tbl_runway_directions set azimuth=310 where direction_id=337;
+update tbl_runway_directions set azimuth=217 where direction_id=275;
+update tbl_runway_directions set azimuth=37 where direction_id=276;
+update tbl_runway_directions set azimuth=212 where direction_id=325;
+update tbl_runway_directions set azimuth=32 where direction_id=326;
+update tbl_runway_directions set azimuth=200 where direction_id=331;
+update tbl_runway_directions set azimuth=16 where direction_id=260;
+update tbl_runway_directions set azimuth=196 where direction_id=259;
+update tbl_runway_directions set azimuth=290 where direction_id=9;
+update tbl_runway_directions set azimuth=110 where direction_id=10;
+update tbl_runway_directions set azimuth=172 where direction_id=8;
+update tbl_runway_directions set azimuth=352 where direction_id=7;
+update tbl_runway_directions set azimuth=233 where direction_id=21;
+update tbl_runway_directions set azimuth=53 where direction_id=22;
+update tbl_runway_directions set azimuth=131 where direction_id=12;
+update tbl_runway_directions set azimuth=288 where direction_id=703;
+update tbl_runway_directions set azimuth=108 where direction_id=704;
+update tbl_runway_directions set azimuth=66 where direction_id=726;
+update tbl_runway_directions set azimuth=246 where direction_id=725;
+update tbl_runway_directions set azimuth=310 where direction_id=75;
+update tbl_runway_directions set azimuth=130 where direction_id=76;
+update tbl_runway_directions set azimuth=267 where direction_id=579;
+update tbl_runway_directions set azimuth=87 where direction_id=580;
+update tbl_runway_directions set azimuth=254 where direction_id=763;
+update tbl_runway_directions set azimuth=250 where direction_id=761;
 
