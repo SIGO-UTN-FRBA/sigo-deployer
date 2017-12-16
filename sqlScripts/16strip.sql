@@ -990,3 +990,4 @@ INSERT INTO public.tbl_runway_strips (strip_id, strip_length, strip_width) VALUE
 INSERT INTO public.tbl_runway_strips (strip_id, strip_length, strip_width) VALUES (1026, NULL, NULL);
 INSERT INTO public.tbl_runway_strips (strip_id, strip_length, strip_width) VALUES (1207, NULL, NULL);
 INSERT INTO public.tbl_runway_strips (strip_id, strip_length, strip_width) VALUES (1208, NULL, NULL);
+UPDATE tbl_runway_directions SET strip_id = direction_id;
