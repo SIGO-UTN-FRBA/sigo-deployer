@@ -1016,3 +1016,13 @@ UPDATE tbl_runway_classification_icaoannex14
 SET type_letter=1
 WHERE exists(select 1 from tmp t where t.classification_id = tbl_runway_classification_icaoannex14.classification_id);
 
+
+
+UPDATE tbl_runway_classification_icaoannex14
+SET type_number=4,category=2,classification=2
+WHERE classification_id in (175,176,967,961,962,32,729,991,986,959,960,981,980,179,990,332,333,957,16,93,92,600,601,875,876,939,982,416,938,965,964,178,177,987,988,984,985,888);
+
+
+UPDATE tbl_runway_classification_icaoannex14
+SET type_number=3,category=2,classification=2
+WHERE classification_id in (920,4,979,937);
