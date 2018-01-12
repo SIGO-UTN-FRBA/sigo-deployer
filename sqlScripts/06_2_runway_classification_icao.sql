@@ -962,7 +962,7 @@ INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classificati
 INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (NULL, NULL, 1, 3, 178);
 INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (1, 2, 1, 3, 179);
 INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (3, 2, 1, 3, 575);
-INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (0, 0, 1, 3, 576);
+INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (1, 2, 1, 3, 576);
 INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (NULL, NULL, 1, 3, 959);
 INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (NULL, NULL, 1, 3, 960);
 INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (NULL, NULL, 1, 3, 961);
