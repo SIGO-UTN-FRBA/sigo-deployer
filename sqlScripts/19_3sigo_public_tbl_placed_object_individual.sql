@@ -39,40 +39,51 @@ INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('01010
 INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E6100000C41573EE0A1B51C05A0DA4E958923FC0', 40);
 INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E6100000E1AF7B01081B51C05C39586C00933FC0', 41);
 INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E6100000FBFFFFDFAF434DC019C6F440376A41C0', 42);
-INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('01010000009A999999330A15410000000053CC21C1', 52);
-INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('010100000000000000A60A1541CDCCCCCC7FCC21C1', 53);
-INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000000CDCCCCCCAA0B15413333333360CC21C1', 54);
-INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000000CDCCCCCCA80D1541CDCCCCCCE0CA21C1', 55);
-INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('01010000009A999999CD0D15419A99999967C921C1', 56);
-INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('01010000009A999999170F1541CDCCCCCCA0CB21C1', 57);
-INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000000000000001E0F15413333333386CB21C1', 58);
-INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('010100000000000000F40E15419A9999999DCB21C1', 59);
-INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000000CDCCCCCC0A0F154100000000ACCB21C1', 60);
-INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000000000000000C0F15419A999999A9CB21C1', 61);
-INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000000CDCCCCCC0E0F15419A999999A7CB21C1', 62);
-INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000000CDCCCCCC100F15419A999999A4CB21C1', 63);
-INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('010100000033333333210F15416666666695CB21C1', 64);
-INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('010100000033333333D70B15419A99999960CC21C1', 65);
-INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('010100000033333333F50B15419A9999995BCC21C1', 66);
-INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('01010000009A999999070C154133333333E0CA21C1', 67);
-INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('01010000009A999999A50D15416666666687CB21C1', 68);
-INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000000666666663610154166666666E5CB21C1', 69); 
-INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000000295C8FC24EF6144114AE47E14BC521C1', 70);
-INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('01010000007B14AE47EDF41441295C8FC221C621C1', 71);                                       INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('010100000033333333BD1619419A99999965AD25C1', 72);
-INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000000000000009E1719413333333373AD25C1', 73);        
-INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000000333333339F16194100000000F2AB25C1', 74);
-INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000000CDCCCCCC8E171941CDCCCCCCDCAB25C1', 75);        
-INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000000CDCCCCCC8617194100000000C0AB25C1', 76);
-INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000000CDCCCCCC2218194133333333E9AB25C1', 77);        
-INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000000CDCCCCCCA41919419A99999979AC25C1', 78);
-INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000000666666669C191941CDCCCCCC49AB25C1', 79);        
-INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('010100000066666666F6171941000000002DAB25C1', 80);
-INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('010100000066666666C41A1941CDCCCCCC968925C1', 81);        
-INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('01010000009A999999BB17194133333333DBB325C1', 82);
-INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000000666666668C17194100000000CFB325C1', 83);        
-INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('010100000000000000C6161941CDCCCCCC80B325C1', 84);
-INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('010100000033333333C316194133333333E5B225C1', 85);        
-INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000000CDCCCCCCBE161941CDCCCCCC6FB125C1', 86);
-INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000000000000005A181941CDCCCCCCB9B025C1', 87);        
-INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('010100000000000000301319410000000013AF25C1', 88);
-INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('010100000033333333DD1219419A999999F8AE25C1', 89);         
+
+
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E6100000D5EC8156603C41C05BD3BCE314294DC0', 52);
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E61000008D28ED0DBE3C41C07632384A5E294DC0', 53);
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E61000001A8BA6B3933D41C0850838842A294DC0', 54);
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E61000002C0E677E353F41C049809A5AB6264DC0', 55);
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E6100000F302ECA3533F41C05CE674594C244DC0', 56);
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E6100000861BF0F9614041C09D853DEDF0274DC0', 57);
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E6100000BF7D1D38674041C024456458C5274DC0', 58);
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E61000002AA913D0444041C0642310AFEB274DC0', 59);
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E61000001557957D574041C0645DDC4603284DC0', 60);
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E61000007FD93D79584041C0B9533A58FF274DC0', 61);
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E610000078B471C45A4041C055F65D11FC274DC0', 62);
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E61000002AE3DF675C4041C0406A1327F7274DC0', 63);
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E6100000DC2E34D7694041C0B2D7BB3FDE274DC0', 64);
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E610000084640113B83D41C0CCB4FD2B2B294DC0', 65);
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E6100000EF2076A6D03D41C053CBD6FA22294DC0', 66);
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E6100000529B38B9DF3D41C0DFFDF15EB5264DC0', 67);
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E6100000105D50DF323F41C0F949B54FC7274DC0', 68);
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E61000001ADD41EC4C4141C03F6F2A5261284DC0', 69); 
+
+
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E6100000CC608C48142C41C03FC91D36911D4DC0', 70);
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E610000078616BB6F22A41C0F7EAE3A1EF1E4DC0', 71);
+
+
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E61000009A5FCD01828D44C0271422E010C251C0', 72);                                          
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E6100000A779C7293A8E44C0E08442041CC251C0', 73);        
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E610000000000000475C4FC122FDF675E0C051C0', 74);                                          
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E610000000000080725D4FC1C6A70018CFC051C0', 75);        
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E610000000000080685D4FC1C66D3480B7C051C0', 76);                                          
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E6100000000000802B5E4FC114967840D9C051C0', 77);        
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E6100000000000000E604FC1378E588B4FC151C0', 78);                                          
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E61000000000008003604FC1BC3FDEAB56C051C0', 79);        
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E610000000000000F45D4FC1BC0512143FC051C0', 80);                                          
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E61000000000008075614FC17077D66EBBA451C0', 81);        
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E610000000000080AA5D4FC1481630815BC751C0', 82);                                          
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E6100000000000806F5D4FC10C93A98251C751C0', 83);        
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E610000000000080775C4FC1E50AEF7211C751C0', 84);                                          
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E610000000000000745C4FC1DFA63FFB91C651C0', 85);        
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E6100000000000806E5C4FC13ACC971760C551C0', 86);                                          
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E610000000000080705E4FC109336DFFCAC451C0', 87);        
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E610000000000000FC574FC13D0AD7A370C351C0', 88);                                          
+INSERT INTO public.tbl_placed_object_individual (geom, object_id) VALUES ('0101000020E61000000000008094574FC113D55B035BC351C0', 89);    
+
+
+
+
