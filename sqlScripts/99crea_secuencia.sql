@@ -270,3 +270,15 @@ CREATE SEQUENCE public.runway_strip_sequence
   CACHE 1;
 ALTER TABLE public.runway_strip_sequence
   OWNER TO postgres;
+
+
+DROP SEQUENCE public.analysis_result_reason_sequence;
+
+CREATE SEQUENCE public.analysis_result_reason_sequence
+  INCREMENT 1
+  MINVALUE 1
+  MAXVALUE 9223372036854775807
+  START 1000
+  CACHE 1;
+ALTER TABLE public.analysis_result_reason_sequence
+  OWNER TO postgres;
