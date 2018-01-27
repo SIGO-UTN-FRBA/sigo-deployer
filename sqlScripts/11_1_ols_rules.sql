@@ -496,3 +496,8 @@ INSERT INTO public.tbl_ols_rules (rule_id, regulation_id) VALUES (495, 1);
 INSERT INTO public.tbl_ols_rules (rule_id, regulation_id) VALUES (496, 1);
 INSERT INTO public.tbl_ols_rules (rule_id, regulation_id) VALUES (497, 1);
 INSERT INTO public.tbl_ols_rules (rule_id, regulation_id) VALUES (498, 1);
+INSERT INTO public.tbl_ols_rules (rule_id, regulation_id) VALUES (499, 1);
+INSERT INTO public.tbl_ols_rules (rule_id, regulation_id) VALUES (500, 1);
+INSERT INTO public.tbl_ols_rules (rule_id, regulation_id) VALUES (501, 1);
+INSERT INTO public.tbl_ols_rules (rule_id, regulation_id) VALUES (502, 1);
+INSERT INTO public.tbl_ols_rules (rule_id, regulation_id) VALUES (503, 1);
