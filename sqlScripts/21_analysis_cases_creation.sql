@@ -1,5 +1,5 @@
-INSERT INTO tbl_analysis(analysis_id, status_id, stage_id, creation_date, edition_date, regulation_id)
-  SELECT ta.aerodrome_id, 2, 3, now(), now(), 0
+INSERT INTO tbl_analysis(analysis_id, status_id, stage_id, creation_date, edition_date, regulation_id, user_id)
+  SELECT ta.aerodrome_id, 2, 3, now(), now(), 0, 'local|fake'
   FROM tbl_aerodromes ta;
 
 INSERT INTO tbl_analysis_cases(case_id, analysis_id, aerodrome_id)
