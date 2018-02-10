@@ -1155,7 +1155,7 @@ INSERT INTO public.tbl_runway_strips (strip_id, strip_length, strip_width) VALUE
 INSERT INTO public.tbl_runway_strips (strip_id, strip_length, strip_width) VALUES (1562, NULL, NULL);
 INSERT INTO public.tbl_runway_strips (strip_id, strip_length, strip_width) VALUES (1563, NULL, NULL);
 INSERT INTO public.tbl_runway_strips (strip_id, strip_length, strip_width) VALUES (1564, NULL, NULL);
-INSERT INTO public.tbl_runway_strips (strip_id, strip_length, strip_width) VALUES (1565, NULL, NULL);
+INSERT INTO public.tbl_runway_strips (strip_id, strip_length, strip_width) VALUES (1565, 2200, 270);
 INSERT INTO public.tbl_runway_strips (strip_id, strip_length, strip_width) VALUES (1566, NULL, NULL);
 INSERT INTO public.tbl_runway_strips (strip_id, strip_length, strip_width) VALUES (1567, NULL, NULL);
 INSERT INTO public.tbl_runway_strips (strip_id, strip_length, strip_width) VALUES (1568, NULL, NULL);
