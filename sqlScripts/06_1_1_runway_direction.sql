@@ -181,7 +181,7 @@ INSERT INTO public.tbl_runway_directions (direction_id, azimuth, geom, height, n
 INSERT INTO public.tbl_runway_directions (direction_id, azimuth, geom, height, number, position, runway_id, strip_id) VALUES (1702, 210, '0101000000BC3FDEAB56A64EC071AC8BDB687841C0', 75, 21, 0, 459, 1702);
 INSERT INTO public.tbl_runway_directions (direction_id, azimuth, geom, height, number, position, runway_id, strip_id) VALUES (1703, 260, '0101000000CAE02879753C51C0016A6AD95AFF48C0', 24, 26, 0, 460, 1703);
 INSERT INTO public.tbl_runway_directions (direction_id, azimuth, geom, height, number, position, runway_id, strip_id) VALUES (1704, 350, '01010000007214200A66C64EC0CB80B3942C4340C0', 98, 35, 0, 468, 1704);
-INSERT INTO public.tbl_runway_directions (direction_id, azimuth, geom, height, number, position, runway_id, strip_id) VALUES (1720, 340, '0101000000F1BC546CCC4550C0486DE2E47E6738C0', 920, 34, 0, 419, 1720);
+INSERT INTO public.tbl_runway_directions (direction_id, azimuth, geom, height, number, position, runway_id, strip_id) VALUES (1720, 340, '0101000000F1BC546CCC4550C0486DE2E47E6738C0', 885, 34, 0, 419, 1720);
 INSERT INTO public.tbl_runway_directions (direction_id, azimuth, geom, height, number, position, runway_id, strip_id) VALUES (1527, 70, '0101000000390CE6AF90CB50C0BF1072DEFF3F4BC0', 111, 7, 0, 697, 1527);
 INSERT INTO public.tbl_runway_directions (direction_id, azimuth, geom, height, number, position, runway_id, strip_id) VALUES (1536, 10, '0101000000999A046F48FD4DC0C11E1329CD5E3DC0', 54, 1, 0, 500, 1536);
 INSERT INTO public.tbl_runway_directions (direction_id, azimuth, geom, height, number, position, runway_id, strip_id) VALUES (1544, 70, '0101000000C74CA25EF0F050C06CB1DB6795E34AC0', 14, 7, 0, 230, 1544);

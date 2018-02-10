@@ -18,8 +18,8 @@ INSERT INTO public.tbl_runway_approach_sections (section_id, enabled, threshold_
 INSERT INTO public.tbl_runway_approach_sections (section_id, enabled, threshold_elevation, threshold_length, direction_id) VALUES (1017, 'true', 112, 0, 879);
 INSERT INTO public.tbl_runway_approach_sections (section_id, enabled, threshold_elevation, threshold_length, direction_id) VALUES (1018, 'true', 41, 0, 725);
 INSERT INTO public.tbl_runway_approach_sections (section_id, enabled, threshold_elevation, threshold_length, direction_id) VALUES (1019, 'true', 43, 0, 726);
-INSERT INTO public.tbl_runway_approach_sections (section_id, enabled, threshold_elevation, threshold_length, direction_id) VALUES (1020, 'true', 845, 0, 703);
-INSERT INTO public.tbl_runway_approach_sections (section_id, enabled, threshold_elevation, threshold_length, direction_id) VALUES (1021, 'true', 838, 0, 704);
+INSERT INTO public.tbl_runway_approach_sections (section_id, enabled, threshold_elevation, threshold_length, direction_id) VALUES (1020, 'true', 841.5, 0, 703);
+INSERT INTO public.tbl_runway_approach_sections (section_id, enabled, threshold_elevation, threshold_length, direction_id) VALUES (1021, 'true', 835, 0, 704);
 INSERT INTO public.tbl_runway_approach_sections (section_id, enabled, threshold_elevation, threshold_length, direction_id) VALUES (1022, 'true', 1085, 0, 572);
 INSERT INTO public.tbl_runway_approach_sections (section_id, enabled, threshold_elevation, threshold_length, direction_id) VALUES (1023, 'true', 455, 0, 259);
 INSERT INTO public.tbl_runway_approach_sections (section_id, enabled, threshold_elevation, threshold_length, direction_id) VALUES (1024, 'true', 99, 0, 403);
@@ -881,7 +881,7 @@ INSERT INTO public.tbl_runway_approach_sections (section_id, enabled, threshold_
 INSERT INTO public.tbl_runway_approach_sections (section_id, enabled, threshold_elevation, threshold_length, direction_id) VALUES (1880, 'true', 19, 0, 10);
 INSERT INTO public.tbl_runway_approach_sections (section_id, enabled, threshold_elevation, threshold_length, direction_id) VALUES (1881, 'true', 19, 0, 8);
 INSERT INTO public.tbl_runway_approach_sections (section_id, enabled, threshold_elevation, threshold_length, direction_id) VALUES (1882, 'true', 20, 0, 9);
-INSERT INTO public.tbl_runway_approach_sections (section_id, enabled, threshold_elevation, threshold_length, direction_id) VALUES (1883, 'true', 21, 0, 7);
+INSERT INTO public.tbl_runway_approach_sections (section_id, enabled, threshold_elevation, threshold_length, direction_id) VALUES (1883, 'true', 20.5, 0, 7);
 INSERT INTO public.tbl_runway_approach_sections (section_id, enabled, threshold_elevation, threshold_length, direction_id) VALUES (1884, 'true', 109, 0, 501);
 INSERT INTO public.tbl_runway_approach_sections (section_id, enabled, threshold_elevation, threshold_length, direction_id) VALUES (1885, 'true', 1241, 0, 6);
 INSERT INTO public.tbl_runway_approach_sections (section_id, enabled, threshold_elevation, threshold_length, direction_id) VALUES (1886, 'true', 1248, 0, 4);
@@ -1155,7 +1155,7 @@ INSERT INTO public.tbl_runway_approach_sections (section_id, enabled, threshold_
 INSERT INTO public.tbl_runway_approach_sections (section_id, enabled, threshold_elevation, threshold_length, direction_id) VALUES (165, 'true', 0, 0, 1562);
 INSERT INTO public.tbl_runway_approach_sections (section_id, enabled, threshold_elevation, threshold_length, direction_id) VALUES (166, 'true', 0, 0, 1563);
 INSERT INTO public.tbl_runway_approach_sections (section_id, enabled, threshold_elevation, threshold_length, direction_id) VALUES (167, 'true', 0, 0, 1564);
-INSERT INTO public.tbl_runway_approach_sections (section_id, enabled, threshold_elevation, threshold_length, direction_id) VALUES (168, 'true', 0, 0, 1565);
+INSERT INTO public.tbl_runway_approach_sections (section_id, enabled, threshold_elevation, threshold_length, direction_id) VALUES (168, 'true', 4.6, 0, 1565);
 INSERT INTO public.tbl_runway_approach_sections (section_id, enabled, threshold_elevation, threshold_length, direction_id) VALUES (169, 'true', 0, 0, 1566);
 INSERT INTO public.tbl_runway_approach_sections (section_id, enabled, threshold_elevation, threshold_length, direction_id) VALUES (170, 'true', 0, 0, 1567);
 INSERT INTO public.tbl_runway_approach_sections (section_id, enabled, threshold_elevation, threshold_length, direction_id) VALUES (171, 'true', 0, 0, 1568);
@@ -1310,5 +1310,5 @@ INSERT INTO public.tbl_runway_approach_sections (section_id, enabled, threshold_
 INSERT INTO public.tbl_runway_approach_sections (section_id, enabled, threshold_elevation, threshold_length, direction_id) VALUES (320, 'true', 0, 0, 1717);
 INSERT INTO public.tbl_runway_approach_sections (section_id, enabled, threshold_elevation, threshold_length, direction_id) VALUES (321, 'true', 0, 0, 1718);
 INSERT INTO public.tbl_runway_approach_sections (section_id, enabled, threshold_elevation, threshold_length, direction_id) VALUES (322, 'true', 0, 0, 1719);
-INSERT INTO public.tbl_runway_approach_sections (section_id, enabled, threshold_elevation, threshold_length, direction_id) VALUES (323, 'true', 0, 0, 1720);
+INSERT INTO public.tbl_runway_approach_sections (section_id, enabled, threshold_elevation, threshold_length, direction_id) VALUES (323, 'true', 885, 0, 1720);
 INSERT INTO public.tbl_runway_approach_sections (section_id, enabled, threshold_elevation, threshold_length, direction_id) VALUES (324, 'true', 0, 0, 1721);
