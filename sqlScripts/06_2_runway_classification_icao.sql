@@ -1170,12 +1170,10 @@ INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classificati
 INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (NULL, NULL, 1, 3, 980);
 INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (NULL, NULL, 1, 3, 981);
 INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (NULL, NULL, 1, 3, 982);
-INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (0, 0, 1, 3, 984);
 INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (2, 2, 1, 3, 985);
 INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (1, 1, 1, 3, 986);
 INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (1, 1, 1, 3, 987);
 INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (0, 0, 1, 3, 988);
-INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (0, 0, 1, 3, 990);
 INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (0, 0, 1, 3, 991);
 INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (NULL, NULL, 1, 3, 16);
 INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (NULL, NULL, 1, 3, 32);
@@ -1185,7 +1183,6 @@ INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classificati
 INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (NULL, NULL, 1, 3, 176);
 INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (NULL, NULL, 1, 3, 177);
 INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (NULL, NULL, 1, 3, 178);
-INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (2, 2, 1, 3, 179);
 INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (0, 0, 1, 3, 332);
 INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (0, 0, 1, 3, 333);
 INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (NULL, NULL, 1, 3, 416);
@@ -1305,10 +1302,13 @@ INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classificati
 INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (NULL, NULL, NULL, NULL, 1319);
 INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (NULL, NULL, 1, 3, 1172);
 INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (2, 2, 1, 2, 1150);
-INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (0, 0, 1, 3, 1320);
 INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (1, 0, 1, 3, 1144);
 INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (2, 2, 1, 2, 1154);
 INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (0, 0, 1, 3, 1312);
 INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (1, 1, 1, 3, 1037);
 INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (2, 2, 1, 3, 21);
 INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (2, 2, 1, 3, 1165);
+INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (0, 1, 1, 3, 990);
+INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (0, 1, 1, 3, 179);
+INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (0, 1, 1, 3, 1320);
+INSERT INTO public.tbl_runway_classification_icaoannex14 (category, classification, type_letter, type_number, classification_id) VALUES (0, 1, 1, 3, 984);
