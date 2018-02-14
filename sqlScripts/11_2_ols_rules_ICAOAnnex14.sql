@@ -1,3 +1,7 @@
+INSERT INTO public.tbl_ols_rules_icaoannex14 (property_code, property_name, runway_category, runway_classification, runway_code_number, surface_name, value, rule_id) VALUES ('height', 'Height', 0, 1, 3, 12, 150, 515);
+INSERT INTO public.tbl_ols_rules_icaoannex14 (property_code, property_name, runway_category, runway_classification, runway_code_number, surface_name, value, rule_id) VALUES ('height', 'Height', 0, 1, 2, 12, 150, 514);
+INSERT INTO public.tbl_ols_rules_icaoannex14 (property_code, property_name, runway_category, runway_classification, runway_code_number, surface_name, value, rule_id) VALUES ('radius', 'Radius', 0, 1, 3, 12, 15000, 513);
+INSERT INTO public.tbl_ols_rules_icaoannex14 (property_code, property_name, runway_category, runway_classification, runway_code_number, surface_name, value, rule_id) VALUES ('radius', 'Radius', 0, 1, 2, 12, 15000, 512);
 INSERT INTO public.tbl_ols_rules_icaoannex14 (property_code, property_name, runway_category, runway_classification, runway_code_number, surface_name, value, rule_id) VALUES ('height', 'Height', 3, 2, 3, 12, 150, 511);
 INSERT INTO public.tbl_ols_rules_icaoannex14 (property_code, property_name, runway_category, runway_classification, runway_code_number, surface_name, value, rule_id) VALUES ('height', 'Height', 2, 2, 3, 12, 150, 510);
 INSERT INTO public.tbl_ols_rules_icaoannex14 (property_code, property_name, runway_category, runway_classification, runway_code_number, surface_name, value, rule_id) VALUES ('height', 'Height', 1, 2, 2, 12, 150, 509);
